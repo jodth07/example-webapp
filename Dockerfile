@@ -1,5 +1,5 @@
 FROM java:8-alpine
-MAINTAINER Your Name <you@example.com>
+MAINTAINER Olson Dimanche dimanche.nav@gmail.com
 
 ADD target/uberjar/example-webapp.jar /example-webapp/app.jar
 
